@@ -1,48 +1,31 @@
-# My neural Network
+# Neural Network with Gradient Descent
 
-Derin öğrenmeyi daha iyi öğrenebilmek adına gerçekleştirilmiş bir mini projedir.
+This project is an implementation of a single-neuron neural network that mimics the behavior of a neural network using the gradient descent algorithm. It aims to understand the underlying operations involved in the process.
 
-## Kurulum
+## Table of Contents
 
-Projenin çalıştırılması için aşağıdaki gereksinimlere ihtiyaç vardır:
+- [About the Project](#about-the-project)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About the Project
+
+To run the project, the following requirements are needed:
 - Python 3.x
-- Gerekli kütüphaneler (numpy, pandas, vs.)
+- Required libraries (numpy, pandas, etc.)
 
-Gerekli kütüphaneleri yüklemek için aşağıdaki komutları kullanabilirsiniz:
+## Contributing
 
-\`\`\`bash
-pip install numpy
-pip install pandas
-\`\`\`
+If you would like to contribute, please follow these steps:
+1. Fork the repository
+2. Create a new branch: `git checkout -b my-feature`
+3. Make your changes
+4. Commit your changes: `git commit -am 'Add new feature'`
+5. Push to your branch: `git push origin my-feature`
+6. Open a Pull Request
 
-## Kullanım
+## License
 
-Projenin nasıl kullanılacağına ilişkin adımları aşağıda bulabilirsiniz:
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
-1. Adım 1
-2. Adım 2
-3. Adım 3
-
-Aşağıda, örnek bir Python kodu bloğu gösterilmiştir:
-
-\`\`\`python
-import numpy as np
-import pandas as pd
-
-# Kodunuz buraya gelecek
-\`\`\`
-
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
-1. Fork yapın
-2. Yeni bir dal (branch) oluşturun: \`git checkout -b my-feature\`
-3. Değişikliklerinizi yapın
-4. Değişiklikleri commit edin: \`git commit -am 'Add new feature'\`
-5. Dalınıza (branch) push yapın: \`git push origin my-feature\`
-6. Bir Pull Talebi (Pull Request) açın
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasını inceleyebilirsiniz.
 
